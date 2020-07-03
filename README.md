@@ -14,7 +14,7 @@ This project was developed in 2020 and is no longer maintained.
 
 ## About
 
-Identify Persons of Interest from the Enron fraud case using machine learning. 
+Identifies Persons of Interest from the Enron fraud case using machine learning. 
 
 A variety of machine learning algorithms were explored in an attempt to create the best fitting model. 
 
