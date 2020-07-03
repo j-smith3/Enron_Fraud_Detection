@@ -1,4 +1,4 @@
-# Enron_Fraud_Detection
+# Enron Fraud Case - Persons of Interest Identifier
 
 ## Data Analysis Project - Udacity Data Analyst Nanodegree
 
