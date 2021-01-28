@@ -19,3 +19,4 @@ Identifies Persons of Interest from the Enron fraud case using machine learning.
 A variety of machine learning algorithms were explored in an attempt to create the best fitting model. 
 
 Project utilized scikit-learn python library.
+ 
